@@ -1,7 +1,9 @@
 # Installation
 
 here are the steps to install the file it will take some of your KBs.
+
 step 1: clone the repo using git or download the zip file by clicking the code button.
+
 using this command :
 ```git
 git clone https://github.com/neelesh-codes/snake-water-gun-game.git
