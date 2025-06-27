@@ -10,6 +10,19 @@ git clone https://github.com/neelesh-codes/snake-water-gun-game.git
 ```
 step 2: extract the zip folder and start playing the game by running main.exe file.
 
+## Note:
+ if you are on windows then just click the main.exe file and the game will start but in linux and macos or other operating systems you have to run the code manually here how you can do this 
+ 1. open the ternminal in that folder
+ 2. And then type this:
+
+```bash
+g++ main.cpp -o main
+```
+this will compile the code and then run it 
+```bash
+./main
+```
+Note the commands are only for opertaing system like linux and macos windows can execute the .exe file directly.
 # Requirments
 
 1. any operating system than android.
